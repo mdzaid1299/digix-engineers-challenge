@@ -8,13 +8,14 @@ Digix is a Software Design and Engineering Team based out of Boston which is now
 
 As a Front End Developer of Digix, transform the existing page design to a responsive page design so that the company's site adapts well on smaller screen sizes.
 
-**Desktop Image**
+### Desktop Image
 
 ![](./Digix-Desktop.png)
-**Tab Image**
+### Tab Image
 
 ![](./Digix-Tab.png)
-**Mobile Image**
+
+### Mobile Image
 
 ![](./Digix-Mobile.png)
 
