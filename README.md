@@ -1,4 +1,4 @@
-# Digix Engineers Mastery Challenge 
+# Digix Engineers Challenge 
 
 ## Context
 
