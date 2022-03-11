@@ -4,7 +4,7 @@
 
 Digix is a Software Design and Engineering Team based out of Boston which is now focussing on building digital experiences for it's customers. Most of the leads for Digix are generated from the enquiry form on the company's website which showcases all it's accomplished projects. Witnessing the the recent trends the company found out that there was a drop in lead generation. The primary reason of this was that most of the users were visiting the site from Mobile Devices which failed to adapt well on the smaller screen sizes which led them to drop within 5s.
 
-## Challenge
+## Problem Statement
 
 As a Front End Developer of Digix, transform the existing page design to a responsive page design so that the company's site adapts well on smaller screen sizes.
 
@@ -20,7 +20,7 @@ As a Front End Developer of Digix, transform the existing page design to a respo
 ![](./Digix-Mobile.png)
 
 
-## Details
+### Details
 1. All the assets required can be found in the `./assets` folder
 2. Few texts which have been used in the web page
 ```
@@ -79,4 +79,12 @@ Brno 602 00
 hello@digix.com
 
 ```
-
+## Instructions
+1. Download and unzip the boilerplate code.
+2. Run the command `npm install` to install the dependencies required for automated testing.
+3. Open the boilerplate code in VSCode to develop the assignment solution.
+4. First, test the solution locally by running the command `npm run test`.
+5. Refactor the solution to ensure all test cases are passing.
+6. DO NOT MODIFY THE PROVIDED CODE, ELSE THIS MAY IMPACT THE TEST CODE EXECUTION.
+7. Zip the solution code by selecting all the files and folders **excluding** the `node_modules` folder and give the name same as assignment name to the zipped file.
+8. Upload the zipped solution for submission.
